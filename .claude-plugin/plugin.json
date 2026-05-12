@@ -1,0 +1,11 @@
+{
+  "name": "complexity-guard",
+  "description": "Always-on guardrail for reducing overengineering and preserving maintainable codebase patterns.",
+  "version": "1.0.0",
+  "author": {
+    "name": "cbzehner",
+    "email": "chris@cbzehner.com"
+  },
+  "repository": "https://github.com/cbzehner/skill-complexity-guard",
+  "license": "MIT"
+}
