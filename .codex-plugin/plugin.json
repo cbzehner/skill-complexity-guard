@@ -1,0 +1,31 @@
+{
+  "name": "complexity-guard",
+  "version": "1.0.0",
+  "description": "Keeps code simple and maintainable. Always use when writing/reviewing code, planning architecture, or asked for overengineering/simplify sweeps.",
+  "author": {
+    "name": "cbzehner",
+    "url": "https://github.com/cbzehner"
+  },
+  "homepage": "https://github.com/cbzehner/skill-complexity-guard",
+  "repository": "https://github.com/cbzehner/skill-complexity-guard",
+  "license": "MIT",
+  "keywords": [
+    "complexity-guard",
+    "complexity",
+    "guard",
+    "agent-skill"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Complexity Guard",
+    "shortDescription": "Keeps code simple and maintainable. Always use when writing/reviewing code, planning architecture, or asked for overe...",
+    "longDescription": "Keeps code simple and maintainable. Always use when writing/reviewing code, planning architecture, or asked for overengineering/simplify sweeps.",
+    "developerName": "cbzehner",
+    "category": "Reasoning",
+    "capabilities": [
+      "Reasoning",
+      "Review"
+    ],
+    "websiteURL": "https://github.com/cbzehner/skill-complexity-guard"
+  }
+}
