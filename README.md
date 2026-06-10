@@ -1,3 +1,5 @@
+> **Moved:** this skill now lives in [cbzehner/skills](https://github.com/cbzehner/skills) under `skills/complexity-guard/`. This repo is archived and read-only.
+
 # Complexity Guard
 
 Keep engineering work scoped, boring, and maintainable. The skill is a standing check against speculative abstractions and code that solves problems no one has yet.
